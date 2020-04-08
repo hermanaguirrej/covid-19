@@ -4,7 +4,7 @@ Project design for monitoring and analysis the coronavirus outbreak trend across
 By Herman Aguirre
 PhD Researcher at University of Exeter, UK.
 
-# Shiny Applicaction
+## Shiny Applicaction
 
 The application is stored in the folder "ShineApp"
 In Rstudio you must install the Shiny Packege.
