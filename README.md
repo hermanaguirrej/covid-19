@@ -6,5 +6,5 @@ PhD Researcher at University of Exeter, UK.
 
 ## Shiny Applicaction
 
-The application is stored in the folder "ShineApp"
+The application is stored in the folder "ShineApp" \n
 In Rstudio you must install the Shiny Packege.
