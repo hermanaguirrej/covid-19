@@ -3,7 +3,7 @@ library(tidyverse)
 library(lubridate)
 library(zoo)
 library(readr)
-#HUB
+
 myfile <- "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
 sample <- read.csv(myfile)
 sample <- sample %>% group_by(Country.Region)
